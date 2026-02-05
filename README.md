@@ -1,80 +1,30 @@
 # AI-ML
 
-This repository contains AI/ML learning materials and implementations.
+This repository contains AI/ML learning notebooks and practice implementations in Jupyter.
 
-## 🌿 New: Empty Orphan Branch Available!
+## What I Will Learn
 
-An **empty orphan branch** called `empty-branch` has been created in this repository. This branch:
-- Has **no shared history** with the main branch
-- Is completely **independent** and separate
-- Perfect for hosting **different code** that shouldn't merge with main
+- Core ML algorithms: Naive Bayes, KNN, Random Forest, AdaBoost, Gradient Boosting
+- Model training and evaluation workflows in notebooks
+- Hands-on practice and a mini project to apply concepts end-to-end
 
-### Quick Start with Empty Branch:
-## About This Repository
+## Quick Start
 
-This repository contains AI and Machine Learning practice notebooks and implementations.
+1. Open any notebook in VS Code or Jupyter Lab.
+2. Use a Python 3 environment with common ML libraries installed.
+3. Run cells from top to bottom to reproduce results.
 
-## Branches
+Typical libraries used in these notebooks include `numpy`, `pandas`, `matplotlib`, and `scikit-learn`.
 
-This repository has multiple independent branches:
+## Contents
 
-- **main**: Contains AI/ML Jupyter notebooks and practice files
-- **WithDL**: Deep Learning related content
-- **empty-branch**: An empty orphan branch ready for uploading different code (independent from main)
+- [M_16_Naive_Practice.ipynb](M_16_Naive_Practice.ipynb) - Naive Bayes practice
+- [Module16__Naive_Bayes_Implementation.ipynb](Module16__Naive_Bayes_Implementation.ipynb) - Naive Bayes implementation
+- [M17_Practice_on_KNN.ipynb](M17_Practice_on_KNN.ipynb) - KNN practice
+- [Module_17_KNN_Implementation.ipynb](Module_17_KNN_Implementation.ipynb) - KNN implementation
+- [Module_18_Random_Forest.ipynb](Module_18_Random_Forest.ipynb) - Random Forest
+- [Module_20_AdaBoost.ipynb](Module_20_AdaBoost.ipynb) - AdaBoost
+- [Module_21_Gradient_Boosting.ipynb](Module_21_Gradient_Boosting.ipynb) - Gradient Boosting
+- [module_26.ipynb](module_26.ipynb) - Module 26 notebook
+- [mini_project.ipynb](mini_project.ipynb) - Mini project
 
-## Empty Branch Feature
-
-An empty orphan branch (`empty-branch`) has been created that is completely independent from the main branch. This branch:
-
-- Has no shared commit history with main
-- Can hold completely different code
-- Cannot be merged with main (by design)
-- Is ready for immediate use
-
-### How to Use the Empty Branch
-
-```bash
-# Switch to the empty branch
-git checkout empty-branch
-
-# Add your code
-# Add your files
-# ... copy or create your files ...
-
-# Commit and push
-git add .
-git commit -m "Add my code"
-git push origin empty-branch
-```
-
-📖 **For detailed instructions**, see [EMPTY_BRANCH_GUIDE.md](./EMPTY_BRANCH_GUIDE.md)
-
----
-git push -u origin empty-branch
-```
-
-### Documentation
-
-For detailed information about creating and using empty branches:
-
-- 📖 **[EMPTY_BRANCH_GUIDE.md](EMPTY_BRANCH_GUIDE.md)** - Comprehensive step-by-step guide
-- 📝 **[EMPTY_BRANCH_SUMMARY.md](EMPTY_BRANCH_SUMMARY.md)** - Quick reference guide
-- 🔄 **[BRANCH_COMPARISON.md](BRANCH_COMPARISON.md)** - Visual comparison of branches
-- 🛠️ **[create-empty-branch.sh](create-empty-branch.sh)** - Script to create more empty branches
-
-### Creating More Empty Branches
-
-Use the provided script to create additional empty branches:
-
-```bash
-./create-empty-branch.sh my-new-empty-branch
-```
-
-## Contents (Main Branch)
-
-- Various Jupyter notebooks for ML/AI practice
-- KNN implementations
-- Naive Bayes implementations
-- Random Forest examples
-- AdaBoost and Gradient Boosting tutorials
-- Mini projects
