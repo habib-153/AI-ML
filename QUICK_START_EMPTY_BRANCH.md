@@ -9,7 +9,7 @@ An **empty orphan branch** called `empty-branch` has been successfully created i
 - **Status:** Created locally, ready to push to GitHub
 - **History:** Completely independent from main (no shared commits)
 - **Current State:** Contains only a README with instructions
-- **Commit:** 1c634af - "Initialize empty orphan branch with documentation"
+- **Initial Commit:** "Initialize empty orphan branch with documentation"
 
 ## 🚀 Next Steps - How to Use It
 
